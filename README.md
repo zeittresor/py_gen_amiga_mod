@@ -28,5 +28,5 @@ Example GUI Preview of Testversion 4:
 ![grafik](https://github.com/user-attachments/assets/5fc1c6d3-1519-47ae-95ef-d421bfd03b07)
 
 Suggestion: Use a Amiga Computer or Emulator to play the output.
-btw. a project is existing called "Protracker 2 Clone" (for Windows) just surch for it, is good solution
+btw. a project is existing called "Protracker 2 Clone" (for Windows) just search for it, is good solution
 to play the output of my script or just use VLC (for Windows or Linux) to play :-)

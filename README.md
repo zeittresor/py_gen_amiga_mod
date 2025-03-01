@@ -6,7 +6,7 @@ Example GUI Preview of latest Testversion 6:
 ![gen_amigamod_6](https://github.com/user-attachments/assets/15425983-efad-413b-a4a3-8fa5a5af5866)
 
 
-Example GUI Preview of latest Testversion 4:
+Example GUI Preview of Testversion 4:
 
 ![grafik](https://github.com/user-attachments/assets/5fc1c6d3-1519-47ae-95ef-d421bfd03b07)
 

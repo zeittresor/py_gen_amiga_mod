@@ -8,8 +8,6 @@ the script folder.
 Note: This project is in very early state, but each version is working already.
 In this state the sounds are mostly crazy, the hamonic is the next step i am working on that.
 
-Suggestion: A project called "Protracker 2 Clone" (for Windows) is good solution to play the output of my script
-or just use VLC to play :-)
 
 
 Output Test:
@@ -28,3 +26,5 @@ Example GUI Preview of Testversion 4:
 
 ![grafik](https://github.com/user-attachments/assets/5fc1c6d3-1519-47ae-95ef-d421bfd03b07)
 
+Suggestion: A project called "Protracker 2 Clone" (for Windows) is good solution to play the output of my script
+or just use VLC to play :-)

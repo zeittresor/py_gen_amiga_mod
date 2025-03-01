@@ -8,7 +8,8 @@ the script folder.
 Note: This project is in very early state, but each version is working already.
 In this state the sounds are mostly crazy, the harmonic is the next step i am working on.
 
-
+If you just want to visulize the notes created for each pattern use my script https://github.com/zeittresor/py_mod2pdf
+(it is creating a PDF document of a selected Amiga Protracker .mod file).
  
 
 Output Test:

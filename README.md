@@ -11,6 +11,13 @@ In this state the sounds are mostly crazy, the hamonic is the next step i am wor
 Suggestion: A project called "Protracker 2 Clone" (for Windows) is good solution to play the output of my script
 or just use VLC to play :-)
 
+Output Test:
+
+gen_amiga_mod_alpha6_test-output.mod (converted to mp4) (max. the sound volume slider!):
+
+https://github.com/user-attachments/assets/53bec0cc-9b8c-457d-893c-1ac3efeece50
+
+
 
 Example GUI Preview of latest Testversion 6:
 

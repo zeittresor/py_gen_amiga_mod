@@ -6,7 +6,7 @@ Each Testversion is different but all of them have a GUI to use it with windows,
 the script folder.
 
 Note: This project is in very early state, but each version is working already.
-In this state the sounds are mostly crazy, the hamonic is the next step i am working on that.
+In this state the sounds are mostly crazy, the harmonic is the next step i am working on.
 
 
  
